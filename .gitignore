@@ -75,7 +75,6 @@ Misc/python-embed.pc
 Misc/python-config.sh
 Modules/Setup.config
 Modules/Setup.local
-Modules/config.c
 Modules/ld_so_aix
 Programs/_freeze_importlib
 Programs/_testembed
