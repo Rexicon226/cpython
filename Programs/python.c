@@ -1,6 +1,8 @@
 /* Minimal main program -- everything is loaded from the library */
 
-// #include "Python.h" we link libpython instead to get these functions
+// #include "Python.h" 
+// we link libpython instead to get these functions
+int Py_BytesMain(int argc, char **argv);
 
 #ifdef MS_WINDOWS
 int
