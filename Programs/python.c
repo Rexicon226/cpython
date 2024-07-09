@@ -1,6 +1,6 @@
 /* Minimal main program -- everything is loaded from the library */
 
-#include "Python.h"
+// #include "Python.h" we link libpython instead to get these functions
 
 #ifdef MS_WINDOWS
 int
